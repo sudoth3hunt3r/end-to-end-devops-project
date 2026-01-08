@@ -171,4 +171,4 @@ if __name__ == "__main__":
     server.start()
     logger.info(f'Recommendation service started, listening on port {port}')
     server.wait_for_termination()
-# test change for CICD
+# test change for Git Hub CI
